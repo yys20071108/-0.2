@@ -1,10 +1,13 @@
 # 免责声明
 
 服务仅供测试,正式使用请遵守法律法规,按照法定程序。
+#更新
+0.3增加上面手机显示新增加应用列表+关于
+目前增加下载功能可以使用后续搞一下独立下载
 
 # 简介
 
-e装机奕奕易档团队开发的手表应用市场目前测试版本0.2其他正在写如果你感兴趣也可以加入我们团队qq群431516892一起开发
+e装机奕奕易档团队开发的手表应用市场目前测试版本0.3其他正在写如果你感兴趣也可以加入我们团队qq群431516892一起开发
 我们的口号：易用，高档！易档市场！
 
 <img src="https://www.hescompany.xyz:2087/fbdownload/QQ%E5%9B%BE%E7%89%8720230711232109_png.png?tid=%22fY4nnCbphoZnOQJaDNP_gOW2hQS8WsReSxazzalzwLrhsGfoGE3oPtidZrHetWhSUy2FQKwPoFgm-cwH%22&mode=open&dlink=%222f6e66636b6c2f65e8a385e69cbae69687e4bbb62fe5ba94e794a8e5b882e59cbae59bbee789872f5151e59bbee7898732303233303731313233323130395f706e672e706e67%22&stdhtml=true&SynoToken=ke4qKZ8m1z69w" width="210" height="297"/>
